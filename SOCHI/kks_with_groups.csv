@@ -1,0 +1,213 @@
+External Tags;Name;group
+Sochi2.GT.AM.20CFA10CE001-AM.Q;АКТИВ МОЩНОСТЬ;0
+Sochi2.GT.AM.20MBL30CM005-AM.Q;Влажность ОКР В;0
+Sochi2.GT.AM.20MBL30CT005-AM.Q;Температура ОКР В;0
+Sochi2.GT.AM.20MBT10CP005-AM.Q;P НА ВХ КОМПР;0
+Sochi2.GT.AM.20MBT10CT005-AM.Q;Т НА ВХ КОМПР ДАТЧ1;0
+Sochi2.GT.AM.20MKA10CT015-AM.Q;Т ОХЛ ВЗД ГЕН (ГТ);0
+Sochi2.UNIT.AM.20CJA01CT001-AM.Q;Т ГАЗ НА ВЫХ ГТУ;0
+Sochi2.UNIT.AM.20MKA10CE803-AM.Q;N ПТУ;0
+Sochi2.GT.AM.20MKA10CE001A-AM.Q;НАПРЯЖ ГЕНЕР;1
+Sochi2.GT.AM.20MKA10CE012A-AM.Q;ТОК СТАТОРА ф A;1
+Sochi2.GT.AM.20MKA10CE022A-AM.Q;ТОК СТАТОРА ф B;1
+Sochi2.GT.AM.20MKA10CE032A-AM.Q;ТОК СТАТОРА ф C;1
+Sochi2.GT.AM.20MKA10CT005G-AM.Q;Т ПОДШ ГЕН 1 (РЕД);1
+Sochi2.GT.AM.20MKA10CT010G-AM.Q;Т ПОДШ ГЕН 1 (ВОЗБ);1
+Sochi2.GT.AM.20MKA10CT020-AM.Q;Т ТЕПЛ ВОЗД ГЕН;1
+Sochi2.GT.AM.20MKA10CT030-AM.Q;Т ФАЗЫ А СТАТ ГЕН;1
+Sochi2.GT.AM.20MKA10CT035-AM.Q;Т ФАЗЫ B СТАТ ГЕН;1
+Sochi2.GT.AM.20MKA10CT040-AM.Q;Т ФАЗЫ C СТАТ ГЕН;1
+Sochi2.GT.AM.20MKA10CY005-AM.Q;ВИБР ПОДШ 1 ГЕНЕР;1
+Sochi2.GT.AM.20MKA10CY010-AM.Q;ВИБР ПОДШ 2 ГЕНЕР;1
+Sochi2.GT.AM.20SAE10CP005-AM.Q;dP ВЕНТ ОТСЕК ГЕНЕР;1
+Sochi2.GT.AM.20SAE30CP015-AM.Q;dP НА ВХОД ФЛТР ГЕНЕР;1
+Sochi2.GT.AM.20SAG10CP005-AM.Q;dP ОТСЕК ГГ-МАШЗАЛ;1
+Sochi2.GT.AM.20SAG10CP010-AM.Q;dP ВЕНТ ОТСЕК ГГ;1
+Sochi2.GT.AI.20MBB10FT901-ZE01.PV;Т7 сред;2
+Sochi2.GT.AI.20MBB10FT902-ZE01.PV;Т7 макс;2
+Sochi2.GT.AI.20MBB10FT902-ZE02.PV;Т7 мин;2
+Sochi2.GT.AM.20MBH10CT005-AM.Q;Т УПЛ ВОЗД;2
+Sochi2.GT.AM.20MBL20CP015-AM.Q;dP КВОУ;2
+Sochi2.GT.AM.20MBL30CP015-AM.Q;dP В ВЫПУСКН КАМ;2
+Sochi2.GT.AM.20MBT10AA005-POSITION.Q;УП АПК 1;2
+Sochi2.GT.AM.20MBT10AA010-POSITION.Q;УП АПК 2;2
+Sochi2.GT.AM.20MBT10AE005-POSITION.Q;УП ВНА;2
+Sochi2.GT.AM.20MBT10CP010-AM.Q;dP НА ВХ КОМПР;2
+Sochi2.GT.AM.20MBT10CP015-AM.Q;P НАГНЕТ КОМПР ДАТЧ1;2
+Sochi2.GT.AM.20MBT10CP020-AM.Q;P НАГНЕТ КОМПР ДАТЧ2;2
+Sochi2.GT.AM.20MBT10CP025-AM.Q;P НАГНЕТ КОМПР ДАТЧ3;2
+Sochi2.GT.AM.20MBT10CT030-AM.Q;Т НАГНЕТ КОМПР ДАТЧ1;2
+Sochi2.GT.AM.20MBT10CT035-AM.Q;Т НАГНЕТ КОМПР ДАТЧ2;2
+Sochi2.GT.AM.20MBT10CT040-AM.Q;Т НАГНЕТ КОМПР ДАТЧ3;2
+Sochi2.GT.AM.20MBB10CG005-AM.Q;ОСЕВОЙ СДВИГ СТ;3
+Sochi2.GT.AM.20MBB10CT085-AM.Q;Т ОПОРН ПОДШ 3;3
+Sochi2.GT.AM.20MBB10CT095-AM.Q;Т УПОРН ПОДШ 4;3
+Sochi2.GT.AM.20MBB10CT105-AM.Q;Т ОПОРН ПОДШ 4;3
+Sochi2.GT.AM.20MBB10CY005-AM.Q;ВИБР ПОДШ 3(ОПОРН);3
+Sochi2.GT.AM.20MBB10CY010-AM.Q;ВИБР ПОДШ 4(ОПОР-УП);3
+Sochi2.GT.AM.20MBT10CG005-AM.Q;ОСЕВОЙ СДВИГ ГГ;3
+Sochi2.GT.AM.20MBT10CT010-AM.Q;Т УП ПОДШ 1;3
+Sochi2.GT.AM.20MBT10CT020-AM.Q;Т ОП ПОДШ 1;3
+Sochi2.GT.AM.20MBT10CT045-AM.Q;Т ПОДШ 2;3
+Sochi2.GT.AM.20MBT10CY005-AM.Q;ВИБР ПОДШ 1(ОПОР-УП);3
+Sochi2.GT.AM.20MBT10CY005B-AM.Q;ВИБР ПОДШ 1B;3
+Sochi2.GT.AM.20MBT10CY010-AM.Q;НАПРЯЖ ГЕНЕР;3
+Sochi2.GT.AM.20MBV40CT005-AM.Q;Т ПОДАВ СМАЗ МАСЛ ДАТЧ 1;3
+Sochi2.GT.AM.20MBV40CT015-AM.Q;Т ПОДАВ СМАЗ МАСЛ ДАТЧ 2;3
+Sochi2.GT.AM.20MBV54CP010-AM.Q;P МАСЛА НА ВХ ПОДШ 2;3
+Sochi2.GT.AM.20MBV54CP015-AM.Q;dP НА ПОДШ 2 ДАТЧ 1;3
+Sochi2.GT.AM.20MBV54CP020-AM.Q;dP НА ПОДШ 2 ДАТЧ 2;3
+Sochi2.GT.AM.20MBV60CP005-AM.Q;P МАСЛА НА ВХ ПОДШ 2;3
+Sochi2.GT.AM.20MBV40CT005-AM.Q;Т ПОДАВ СМАЗ МАСЛ ДАТЧ 1;4
+Sochi2.GT.AM.20MBV40CT015-AM.Q;Т ПОДАВ СМАЗ МАСЛ ДАТЧ 2;4
+Sochi2.GT.AM.20MBV54CP010-AM.Q;P МАСЛА НА ВХ ПОДШ 2;4
+Sochi2.GT.AM.20MBV54CP015-AM.Q;dP НА ПОДШ 2 ДАТЧ 1;4
+Sochi2.GT.AM.20MBV54CP020-AM.Q;dP НА ПОДШ 2 ДАТЧ 2;4
+Sochi2.GT.AM.20MBV60CP005-AM.Q;P МАСЛА НА ВХ ПОДШ 2;4
+Sochi2.GT.AM.20MBV10CL010-AM.Q;L В ГМБ;4
+Sochi2.GT.AM.20MBV40CP010-AM.Q;dP НА МАСЛ ФИЛЬТРЕ;4
+Sochi2.GT.AM.20MBV40CP015-AM.Q;P СМАЗ МАСЛ ДАТЧ 1;4
+Sochi2.GT.AM.20MBV40CP025-AM.Q;P СМАЗ МАСЛ ДАТЧ 2;4
+Sochi2.GT.AM.20MBV10CP015-AM.Q;РАЗРЯЖ В ГМБ;4
+Sochi2.GT.AM.20MBV10CT010-AM.Q;Т В ГМБ;4
+Sochi2.GT.AM.20MBV10CP015-AM.Q;РАЗРЯЖ В ГМБ;6
+Sochi2.GT.AM.20MBV10CT010-AM.Q;Т В ГМБ;6
+Sochi2.GT.AI.20MBP10AA035-XG01.PV;УП РК ОСН ГАЗА;5
+Sochi2.GT.AI.20MBP20AA005-XG01.PV;УП РК ПИЛОТ ГАЗА;5
+Sochi2.GT.AM.20MBM10CP010XE01-AM.Q;НЧ ПУЛЬСАЦИИ ДАТЧ 1;5
+Sochi2.GT.AM.20MBM10CP010XE02-AM.Q;ВЧ ПУЛЬСАЦИИ ДАТЧ 1;5
+Sochi2.GT.AM.20MBM10CP010XE03-AM.Q;УЧ ПУЛЬСАЦИИ ДАТЧ 1;5
+Sochi2.GT.AM.20MBM10CP015XE01-AM.Q;НЧ ПУЛЬСАЦИИ ДАТЧ 2;5
+Sochi2.GT.AM.20MBM10CP015XE02-AM.Q;ВЧ ПУЛЬСАЦИИ ДАТЧ 2;5
+Sochi2.GT.AM.20MBM10CP015XE03-AM.Q;УЧ ПУЛЬСАЦИИ ДАТЧ 2;5
+Sochi2.GT.AM.20MBM10CP020XE01-AM.Q;НЧ ПУЛЬСАЦИИ ДАТЧ 3;5
+Sochi2.GT.AM.20MBM10CP020XE02-AM.Q;ВЧ ПУЛЬСАЦИИ ДАТЧ 3;5
+Sochi2.GT.AM.20MBM10CT005-AM.Q;ТЕМПЕРАТ ГОРЕЛКИ;5
+Sochi2.GT.AM.20MBM10CT010-AM.Q;ТЕМПЕРАТ ГОРЕЛКИ;5
+Sochi2.GT.AM.20MBM10CT015-AM.Q;ТЕМПЕРАТ ГОРЕЛКИ;5
+Sochi2.GT.AM.20MBM10CT020-AM.Q;ТЕМПЕРАТ ГОРЕЛКИ;5
+Sochi2.GT.AM.20MBM10CT025-AM.Q;ТЕМПЕРАТ ГОРЕЛКИ;5
+Sochi2.GT.AM.20MBM10CT030-AM.Q;ТЕМПЕРАТ ГОРЕЛКИ;5
+Sochi2.GT.AM.20MBM10CT035-AM.Q;ТЕМПЕРАТ ГОРЕЛКИ;5
+Sochi2.GT.AM.20MBM10CT040-AM.Q;ТЕМПЕРАТ ГОРЕЛКИ;5
+Sochi2.GT.AM.20MBM10CT045-AM.Q;ТЕМПЕРАТ ГОРЕЛКИ;5
+Sochi2.GT.AM.20MBM10CT050-AM.Q;ТЕМПЕРАТ ГОРЕЛКИ;5
+Sochi2.GT.AM.20MBM10CT055-AM.Q;ТЕМПЕРАТ ГОРЕЛКИ;5
+Sochi2.GT.AM.20MBM10CT060-AM.Q;ТЕМПЕРАТ ГОРЕЛКИ;5
+Sochi2.GT.AM.20MBM10CT065-AM.Q;ТЕМПЕРАТ ГОРЕЛКИ;5
+Sochi2.GT.AM.20MBM10CT070-AM.Q;ТЕМПЕРАТ ГОРЕЛКИ;5
+Sochi2.GT.AM.20MBM10CT075-AM.Q;ТЕМПЕРАТ ГОРЕЛКИ;5
+Sochi2.GT.AM.20MBM10CT080-AM.Q;ТЕМПЕРАТ ГОРЕЛКИ;5
+Sochi2.GT.AM.20MBM10CT085-AM.Q;ТЕМПЕРАТ ГОРЕЛКИ;5
+Sochi2.GT.AM.20MBM10CT090-AM.Q;ТЕМПЕРАТ ГОРЕЛКИ;5
+Sochi2.GT.AM.20MBP05CF005-AM.Q;G ГАЗ ТОПЛ;5
+Sochi2.GT.AM.20MBP05CP005-AM.Q;dP НА ФИЛЬТРЕ ГАЗ ТОПЛ;5
+Sochi2.GT.AM.20MBP10CP015-AM.Q;P ГАЗ ТОПЛ;5
+Sochi2.GT.AM.20MBP10CT005-AM.Q;Т ГАЗ ТОПЛ;5
+Sochi2.GT.AM.20MBP20CF005-AM.Q;G ГАЗ ТОПЛ;5
+Sochi2.GT.AM.20MBT10CQ105-AM.Q;ИНТЕНС ОСН ПЛАМ;5
+Sochi2.GT.AM.20MBT10CQ110-AM.Q;ИНТЕНС ПИЛ ПЛАМ;5
+Sochi2.GT.AM.20MBK10CT005-AM.Q;Т ПОДШ РЕДУКТ 1 ТУРБ;6
+Sochi2.GT.AM.20MBK10CT010-AM.Q;Т ПОДШ РЕДУКТ 2 ТУРБ;6
+Sochi2.GT.AM.20MBK10CT025-AM.Q;Т ПОДШ РЕДУКТ 3 ГЕНЕР;6
+Sochi2.GT.AM.20MBK10CT030-AM.Q;Т ПОДШ РЕДУКТ 4 ГЕНЕР;6
+Sochi2.GT.AM.20MBK10CY005-AM.Q;ВИБР РЕДУКТОРА;6
+Sochi2.UNIT.AM.20HAD11CT001-AM.Q;T ЗА ИСПНД;7
+Sochi2.UNIT.AM.20HAD32CT001-AM.Q;T ИСПВД;7
+Sochi2.UNIT.AM.20HAG20CF001-AM.Q;F ДО ИСПНД;7
+Sochi2.UNIT.AM.20HAG20CF002-AM.Q;F ДО ИСПНД;7
+Sochi2.UNIT.AM.20HAG20CF003-AM.Q;F ДО ИСПНД;7
+Sochi2.UNIT.AM.20HAG40CF001-AM.Q;F ПЕРЕД ИСПВД;7
+Sochi2.UNIT.AM.20HAG40CF002-AM.Q;F ПЕРЕД ИСПВД;7
+Sochi2.UNIT.AM.20HAG40CF003-AM.Q;F ПЕРЕД ИСПВД;7
+Sochi2.UNIT.AM.20HAH40CT001-AM.Q;T НЕОБГЗН ВЫХ ПП ВД;7
+Sochi2.UNIT.AM.20HAH40CT002-AM.Q;T НЕОБГЗН ВЫХ ПП ВД;7
+Sochi2.UNIT.AM.20HAH40CT003-AM.Q;T ВЫХ КЛО ПП ВД ВЕРХ;7
+Sochi2.UNIT.AM.20HAH40CT004-AM.Q;T ВЫХ КЛО ПП ВД НИЖ;7
+Sochi2.UNIT.AM.20HNA10CT001-AM.Q;T ВХ ПП ВД;7
+Sochi2.UNIT.AM.20HNA10CT002-AM.Q;T ВХ ППВД;7
+Sochi2.UNIT.AM.20HNA10CT003-AM.Q;T ВХ ИСПВД;7
+Sochi2.UNIT.AM.20HNA10CT004-AM.Q;T ВХ ИСПВД;7
+Sochi2.UNIT.AM.20HNA10CT007-AM.Q;T ВХ ПП НД;7
+Sochi2.UNIT.AM.20HNA10CT008-AM.Q;T ВХ ПП НД;7
+Sochi2.UNIT.AM.20HNA10CT009-AM.Q;T ВХ ИСПНД;7
+Sochi2.UNIT.AM.20HNA10CT010-AM.Q;T ВХ ИСПНД;7
+Sochi2.UNIT.AM.20LBA10CF001-AM.Q;F ЗА П/ПР ВД К ТУРБ;7
+Sochi2.UNIT.AM.20LBA10CF002-AM.Q;F ЗА П/ПР ВД К ТУРБ;7
+Sochi2.UNIT.AM.20LBA10CP001-AM.Q;P ЗА П/ПР ВД;7
+Sochi2.UNIT.AM.20LBA10CT001-AM.Q;T  ТР ЗА ПП ВД;7
+Sochi2.UNIT.AM.20LBA10CT007-AM.Q;T ВЫХ ИЗ ПП ВД ВЕРХ;7
+Sochi2.UNIT.AM.20LBA10CT008-AM.Q;T ВЫХ ИЗ ПП ВД НИЗ;7
+Sochi2.UNIT.AM.20LBB10CP001-AM.Q;P ТР ЗА П/ПР НД;7
+Sochi2.UNIT.AM.20LBB10CT001-AM.Q;T  ТР ЗА ПП НД;7
+Sochi2.UNIT.AM.20MKA10CT018-AM.Q;Т КАМ ВЗДО ГЕН (ПТ);8
+Sochi2.UNIT.AM.20MKA10CT019-AM.Q;Т КАМ ВЗДО ГЕН (ВЗБ);8
+Sochi2.UNIT.AM.20PCB26CF001-AM.Q;F КОНТ ВЗДО ГЕН ПТ;8
+Sochi2.UNIT.AM.20PCB26CF002-AM.Q;F КОНТ ВЗДО ГЕН ПТ;8
+Sochi2.UNIT.AM.20PCB26CF003-AM.Q;F КОНТ ВЗДО ГЕН ПТ;8
+Sochi2.UNIT.AM.20PCB26CP001-AM.Q;dP Ф В 2;8
+Sochi2.UNIT.AM.20PCB29CT001-AM.Q;T ВЗДО ГЕН ПТ;8
+Sochi2.UNIT.AM.20MAD12CT001-AM.Q;Т ЗАДН ПОДШ ГЕН;8
+Sochi2.UNIT.AM.20MAD12CT002-AM.Q;Т ПЕР ПОДШ ГЕН;8
+Sochi2.UNIT.AM.20MAD13CY001-AM.Q;ВИБР(В) ЗАДН ПОДШГЕН;8
+Sochi2.UNIT.AM.20MAD13CY002-AM.Q;ВИБР(В) ЗАДН  ГЕН;8
+Sochi2.UNIT.AM.20MAD13CY003-AM.Q;ВИБР(П) ЗАДН ПОДШГЕН;8
+Sochi2.UNIT.AM.20MAD12CT001-AM.Q;Т ЗАДН ПОДШ ГЕН;10
+Sochi2.UNIT.AM.20MAD12CT002-AM.Q;Т ПЕР ПОДШ ГЕН;10
+Sochi2.UNIT.AM.20MAD13CY001-AM.Q;ВИБР(В) ЗАДН ПОДШГЕН;10
+Sochi2.UNIT.AM.20MAD13CY002-AM.Q;ВИБР(В) ЗАДН  ГЕН;10
+Sochi2.UNIT.AM.20MAD13CY003-AM.Q;ВИБР(П) ЗАДН ПОДШГЕН;10
+Sochi2.UNIT.AM.20HAG31CP001-AM.Q;P НАП ЦЭНВД 1;9
+Sochi2.UNIT.AM.20HAG31CT001-AM.Q;T ТОРЦ УПЛ ЦЭНВД 1;9
+Sochi2.UNIT.AM.20HAG32CP001-AM.Q;P НАП ЦЭНВД 2;9
+Sochi2.UNIT.AM.20HAG32CT001-AM.Q;T ТОРЦ УПЛ ЦЭНВД 2;9
+Sochi2.UNIT.AM.20LCA01CT001-AM.Q;Т ТР ЗА КНДР;9
+Sochi2.UNIT.AM.20LCR51CF001-AM.Q;F ПЕРЕД КНДР П1;9
+Sochi2.UNIT.AM.20LCR52CF001-AM.Q;F ПЕРЕД КНДР П2;9
+Sochi2.UNIT.AM.20MAG10CL001-AM.Q;L КНДР;9
+Sochi2.UNIT.AM.20MAG10CL002-AM.Q;L КНДР;9
+Sochi2.UNIT.AM.20MAG10CP001-AM.Q;ВАК КНДР;9
+Sochi2.UNIT.AM.20MAG10CP002-AM.Q;ВАК КНДР;9
+Sochi2.UNIT.AM.20MAG10CP003-AM.Q;ВАК КНДР;9
+Sochi2.UNIT.AM.20MAG10CT001-AM.Q;Т ПВС В КНДР;9
+Sochi2.UNIT.AM.20PAB31CP001-AM.Q;P ПЕРЕД КНДР П1;9
+Sochi2.UNIT.AM.20PAB31CT001-AM.Q;T ПЕРЕД КНДР П1;9
+Sochi2.UNIT.AM.20PAB32CT001-AM.Q;T ЗА КНДР П1;9
+Sochi2.UNIT.AM.20PAB41CP001-AM.Q;P ПЕРЕД КНДР П2;9
+Sochi2.UNIT.AM.20PAB41CT001-AM.Q;T ПЕРЕД КНДР П2;9
+Sochi2.UNIT.AM.20PAB42CT001-AM.Q;T ЗА КНДР П1;9
+Sochi2.UNIT.AM.20MAD10CT001-AM.Q;Т ПЕР ПОДШ ПТ;10
+Sochi2.UNIT.AM.20MAD10CY001-AM.Q;ВИБР(О) ПЕР ПОДШ ПТ;10
+Sochi2.UNIT.AM.20MAD10CY002-AM.Q;ВИБР(В) ПЕР ПОДШ ПТ;10
+Sochi2.UNIT.AM.20MAD10CY003-AM.Q;ВИБР(П) ПЕР ПОДШ ПТ;10
+Sochi2.UNIT.AM.20MAD10CY004-AM.Q;ОС РОТ ПТ;10
+Sochi2.UNIT.AM.20MAD10CY005-AM.Q;ОС РОТ ПТ;10
+Sochi2.UNIT.AM.20MAD10CY006-AM.Q;ОС РОТ ПТ;10
+Sochi2.UNIT.AM.20MAD11CT001-AM.Q;Т ЗАДН ПОДШ ПТ;10
+Sochi2.UNIT.AM.20MAD11CY001-AM.Q;ВИБР(О) ЗАДН ПОДШ ПТ;10
+Sochi2.UNIT.AM.20MAD11CY002-AM.Q;ВИБР(В) ЗАДН ПОДШ ПТ;10
+Sochi2.UNIT.AM.20MAD11CY003-AM.Q;ВИБР(П) ЗАДН ПОДШ ПТ;10
+Sochi2.UNIT.AM.20MAD11CY004-AM.Q;ОТН РАСШ ПТ;10
+Sochi2.UNIT.AM.20MAV26CT001-AM.Q;Т СЛИВ ПРДН ПОДШ ПТ;10
+Sochi2.UNIT.AM.20MAV27CT001-AM.Q;Т СЛИВ ЗАДН ПОДШ ПТ;10
+Sochi2.UNIT.AM.20MAV29CT001-AM.Q;Т СЛИВ ЗАДН ПОДШ ГЕН;10
+Sochi2.UNIT.AM.20MAV10CL001-AM.Q;L ГЛ МБ;11
+Sochi2.UNIT.AM.20MAV10CP001-AM.Q;dL НА СТК ГЛ МБ;11
+Sochi2.UNIT.AM.20MAV10CT001-AM.Q;Т ГЛ МБ;11
+Sochi2.UNIT.AM.20MAV11CP001-AM.Q;Р ТР ЗА ИНЖ;11
+Sochi2.UNIT.AM.20MAV11CT001-AM.Q;Т ТР ЗА ИНЖ ДО МОХЛ;11
+Sochi2.UNIT.AM.20MAV11CT002-AM.Q;Т ТР ЗА МОХЛ;11
+Sochi2.UNIT.AM.20MAV14CP001-AM.Q;P ВСАС ГЛ МН;11
+Sochi2.UNIT.AM.20MAV14CP003-AM.Q;Р ТР ДО ИНЖ;11
+Sochi2.UNIT.AM.20MAV15CP001-AM.Q;dP Ф МСЛ;11
+Sochi2.UNIT.AM.20MAV16CP001-AM.Q;P КОЛ СМЗ;11
+Sochi2.UNIT.AM.20MAV16CP002-AM.Q;P КОЛ СМЗ;11
+Sochi2.UNIT.AM.20MAV16CP003-AM.Q;P КОЛ СМЗ;11
+Sochi2.UNIT.AM.20MAV20CE002-AM.Q;I ПМН;11
+Sochi2.UNIT.AM.20MAV21CE002-AM.Q;СТОЯН МН;11
+Sochi2.UNIT.AM.20MAV22CE002-AM.Q;I АМН;11
+Sochi2.UNIT.AM.20MAV30CL001-AM.Q;L ДР МБ;11
+Sochi2.UNIT.AM.20PCB21CP001-AM.Q;P ТР ОХЛ ГТ;11
+Sochi2.UNIT.AM.20PCB21CT001-AM.Q;T ТР ДО МОХЛ  ПТ;11
+Sochi2.UNIT.AM.20PCB25CT001-AM.Q;T ТР ЗА МОХЛ ПТ;11
+Sochi2.UNIT.AM.20PCB32CT001-AM.Q;T ТР ЗА МОХЛ ГТ;11

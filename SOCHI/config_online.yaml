@@ -1,0 +1,15 @@
+#Преобразование входных данных
+ROLLING_MEAN: False
+EXP_SMOOTH: False
+DOUBLE_EXP_SMOOTH: False
+ROLLING_MEAN_WINDOW: 32
+
+# Входные параметры
+KKS: 'SOCHI/kks_with_groups.csv' #Файл с группами
+WEIGHTS: 'SOCHI/weights'
+SCALER: 'SOCHI/scaler'
+
+# Параметры алгоритма
+NUM_GROUPS: 12 #Количество групп
+LAG: 1 #Значение лага обучения
+QUERY_DF: "SELECT * FROM slices_play order by timestamp desc limit 1"
