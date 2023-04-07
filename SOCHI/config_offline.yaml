@@ -1,0 +1,30 @@
+#Преобразование входных данных
+ROLLING_MEAN: True
+EXP_SMOOTH: False
+DOUBLE_EXP_SMOOTH: False
+ROLLING_MEAN_WINDOW: 32
+
+# Входные параметры
+KKS: 'SOCHI/kks_with_groups.csv' #Файл с группами
+WEIGHTS: 'SOCHI/weights'
+SCALER: 'SOCHI/scaler'
+
+CSV_SAVE_RESULT: 'csv_predict/'
+CSV_DATA: 'csv_data/'
+JSON_DATA: 'json_interval/'
+TEST_FILE: SELECT * FROM slices_play order by timestamp desc
+
+# Параметры алгоритма
+POWER_ID: 'Sochi2.GT.AM.20CFA10CE001-AM.Q'
+POWER_LIMIT: 20
+NUM_GROUPS: 12 #Количество групп
+LAG: 1 #Значение лага обучения
+MEAN_NAN: False
+DROP_NAN: True
+AUTO_DROP_LIST: False # удаление датчиков нулевой группы
+DROP_LIST: [] #удаление датчиков из отчета CSV
+
+COUNT_ANOMALY: 600
+ROLLING_MEAN_LOSS: 128
+ANOMALY_TRESHOLD: 0.95
+COUNT_TOP: 3
