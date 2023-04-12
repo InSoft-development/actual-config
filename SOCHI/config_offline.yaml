@@ -17,6 +17,7 @@ TEST_FILE: SELECT * FROM slices_play order by timestamp desc
 # Параметры алгоритма
 POWER_ID: 'Sochi2.GT.AM.20CFA10CE001-AM.Q'
 POWER_LIMIT: 20
+POWER_FILL: 'zeroes'
 NUM_GROUPS: 12 #Количество групп
 LAG: 1 #Значение лага обучения
 MEAN_NAN: False
