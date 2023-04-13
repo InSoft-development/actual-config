@@ -16,3 +16,4 @@ POWER_LIMIT: 20
 NUM_GROUPS: 12 #Количество групп
 LAG: 1 #Значение лага обучения
 QUERY_DF: "SELECT * FROM slices_play order by timestamp desc limit 1"
+CREATE_TABLE: False 
