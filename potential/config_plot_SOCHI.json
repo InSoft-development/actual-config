@@ -1,0 +1,17 @@
+{
+  "station": "SOCHI",
+  "project_name": "SOCHI",
+  "count_of_groups": 11,
+  "DROP_LIST": [
+			"Sochi2.GT.AM.20MBK10CT030-AM.Q",
+			"Sochi2.GT.AM.20MBK10CT025-AM.Q"],
+  "PLOT_FEATURES": [
+			"Sochi2.GT.AM.20CFA10CE001-AM.Q",
+			"Sochi2.GT.AM.20MKA10CT015-AM.Q",
+			"Sochi2.GT.AM.20MKA10CT005G-AM.Q",
+			"Sochi2.GT.AM.20MKA10CT010G-AM.Q",
+			"Sochi2.GT.AM.20MKA10CT020-AM.Q"],
+  "NUM_GROUPS": 11,
+  "LAG": 10,
+  "DIR_EXP": "SOCHI"
+}
