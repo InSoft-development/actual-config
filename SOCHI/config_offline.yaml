@@ -5,14 +5,15 @@ DOUBLE_EXP_SMOOTH: False
 ROLLING_MEAN_WINDOW: 32
 
 # Входные параметры
-KKS: 'SOCHI/kks_with_groups.csv' #Файл с группами
+KKS: '/home/art/InControl/Offline_LSTM/SOCHI/kks_with_groups.csv' #Файл с группами
 WEIGHTS: 'SOCHI/weights'
 SCALER: 'SOCHI/scaler'
 
 CSV_SAVE_RESULT: 'csv_predict/'
 CSV_DATA: 'csv_data/'
 JSON_DATA: 'json_interval/'
-TEST_FILE: SELECT * FROM slices_play order by timestamp desc
+# TEST_FILE: SELECT * FROM slices order by timestamp limit 1
+TEST_FILE: '/home/art/Downloads/slices(3).csv'
 
 # Параметры алгоритма
 POWER_ID: 'Sochi2.GT.AM.20CFA10CE001-AM.Q'
@@ -25,7 +26,15 @@ DROP_NAN: True
 AUTO_DROP_LIST: False # удаление датчиков нулевой группы
 DROP_LIST: [] #удаление датчиков из отчета CSV
 
-COUNT_ANOMALY: 600
+
+# COUNT_ANOMALY: 300
 ROLLING_MEAN_LOSS: 128
-ANOMALY_TRESHOLD: 0.95
+# ANOMALY_TRESHOLD: 0.8
+LEN_LONG_ANOMALY: 500
+LEN_SHORT_ANOMALY: 200
+COUNT_CONTINUE_SHORT: 10
+COUNT_CONTINUE_LONG: 15
+SHORT_TRESHOLD: 93
+LONG_TRESHOLD: 90
+
 COUNT_TOP: 3
