@@ -12,12 +12,14 @@ SCALER: 'SOCHI/scaler'
 CSV_SAVE_RESULT: 'csv_predict/'
 CSV_DATA: 'csv_data/'
 JSON_DATA: 'json_interval/'
+SCALER_LOSS: 'scaler_loss/'
 # TEST_FILE: SELECT * FROM slices order by timestamp limit 1
 TEST_FILE: '/home/art/Downloads/slices(3).csv'
 
+
 # Параметры алгоритма
 POWER_ID: 'Sochi2.GT.AM.20CFA10CE001-AM.Q'
-POWER_LIMIT: 20
+POWER_LIMIT: 19
 POWER_FILL: 'zeroes'
 NUM_GROUPS: 12 #Количество групп
 LAG: 1 #Значение лага обучения
@@ -30,11 +32,11 @@ DROP_LIST: [] #удаление датчиков из отчета CSV
 # COUNT_ANOMALY: 300
 ROLLING_MEAN_LOSS: 128
 # ANOMALY_TRESHOLD: 0.8
-LEN_LONG_ANOMALY: 500
-LEN_SHORT_ANOMALY: 200
+LEN_LONG_ANOMALY: 800
+LEN_SHORT_ANOMALY: 300
 COUNT_CONTINUE_SHORT: 10
 COUNT_CONTINUE_LONG: 15
-SHORT_TRESHOLD: 93
-LONG_TRESHOLD: 90
+SHORT_TRESHOLD: 98
+LONG_TRESHOLD: 97
 
 COUNT_TOP: 3
