@@ -9,7 +9,8 @@ KKS: '/home/art/InControl/Offline_LSTM/SOCHI/kks_with_groups.csv' #Файл с �
 WEIGHTS: 'SOCHI/weights'
 SCALER: 'SOCHI/scaler'
 
-CSV_SAVE_RESULT: 'csv_predict/'
+CSV_SAVE_RESULT_PREDICT: 'csv_predict/predict'
+CSV_SAVE_RESULT_LOSS: 'csv_predict/loss'
 CSV_DATA: 'csv_data/'
 JSON_DATA: 'json_interval/'
 SCALER_LOSS: 'scaler_loss/'
