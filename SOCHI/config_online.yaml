@@ -5,21 +5,23 @@ DOUBLE_EXP_SMOOTH: False
 ROLLING_MEAN_WINDOW: 32
 
 # Входные параметры
-KKS: 'SOCHI/kks_with_groups.csv' #Файл с группами
+KKS: '/home/art/InControl/Offline_LSTM/SOCHI/kks_with_groups.csv' #Файл с группами
 WEIGHTS: 'SOCHI/weights'
 SCALER: 'SOCHI/scaler'
+SCALER_LOSS: 'SOCHI/scaler_loss'
+SCALER_LOSS_NAME: 'cdf'
 
 
 # Параметры алгоритма
 POWER_ID: 'Sochi2.GT.AM.20CFA10CE001-AM.Q'
-POWER_LIMIT: 20
+POWER_LIMIT: 19
 NUM_GROUPS: 12 #Количество групп
 LAG: 1 #Значение лага обучения
 QUERY_DF: "SELECT * FROM slices_play order by timestamp desc limit 1"
 CREATE_TABLE: False
 
-TRAIN_LEN_FORECAST: 1000 
-LEN_FORECAST: 40
+TRAIN_LEN_FORECAST: 30
+LEN_FORECAST: 5
 WINDOW_SIZE: 5
 TRESHOLD_ANOMALY: 90 
 CONTINUE_COUNT: 10
