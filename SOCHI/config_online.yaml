@@ -7,7 +7,7 @@ ROLLING_MEAN_WINDOW: 32
 # Входные параметры
 KKS: '/home/art/InControl/Offline_LSTM/SOCHI/kks_with_groups.csv' #Файл с группами
 WEIGHTS: 'SOCHI/weights'
-SCALER: 'SOCHI/scaler'
+SCALER: 'SOCHI/scaler_old'
 SCALER_LOSS: 'SOCHI/scaler_loss'
 SCALER_LOSS_NAME: 'cdf'
 
@@ -18,10 +18,11 @@ POWER_LIMIT: 19
 NUM_GROUPS: 12 #Количество групп
 LAG: 1 #Значение лага обучения
 QUERY_DF: "SELECT * FROM slices_play order by timestamp desc limit 1"
-CREATE_TABLE: False
 
 TRAIN_LEN_FORECAST: 30
 LEN_FORECAST: 5
 WINDOW_SIZE: 5
 TRESHOLD_ANOMALY: 90 
 CONTINUE_COUNT: 10
+
+TIME_BETWEEN_PREDICT: 30 #время между предсказаниями
