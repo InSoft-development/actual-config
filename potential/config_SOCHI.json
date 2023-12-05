@@ -4,7 +4,7 @@
   "count_of_groups": 11,
   "number_of_samples": 12,
   "create_online_table": 0,
-  "source_input_data": "csv",
+  "source_input_data": "clickhouse",
   "model":{
     "N": 19,
     "blacklist_sensors": [
@@ -52,6 +52,9 @@
 	  },
 	  "database":{
 		  "clickhouse":{
+			  "host_ip": "10.23.0.87",
+			  "username": "default",
+			  "password": "asdf",
 			  "original_csv_query": "SELECT * FROM slices order by timestamp",
 			  "original_kks_query": "SELECT * FROM kks",
 			  "original_group_query": "SELECT * FROM groups"
