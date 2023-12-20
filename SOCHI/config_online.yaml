@@ -18,6 +18,7 @@ POWER_LIMIT: 19
 NUM_GROUPS: 12 #Количество групп
 LAG: 1 #Значение лага обучения
 QUERY_DF: "SELECT * FROM slices_play order by timestamp desc limit 1"
+ZERO_PREV_VAL: True #зануляет значения target_value если мощность меньше нуля
 
 TRAIN_LEN_FORECAST: 30
 LEN_FORECAST: 5
