@@ -5,11 +5,16 @@ DOUBLE_EXP_SMOOTH: False
 ROLLING_MEAN_WINDOW: 32
 
 # Входные параметры
-KKS: '/home/art/InControl/Offline_LSTM/SOCHI/kks_with_groups.csv' #Файл с группами
-WEIGHTS: 'SOCHI/weights'
-SCALER: 'SOCHI/scaler_old'
+KKS: 'kks_with_groups_Sochi_last.csv'  #Файл с группами
+WEIGHTS: 'SOCHI/weights_new'
+SCALER: 'SOCHI/scaler'
 SCALER_LOSS: 'SOCHI/scaler_loss'
 SCALER_LOSS_NAME: 'cdf'
+
+# Подключение к БД
+IP_BD: '10.23.0.87'
+USER: 'default'
+PASSWORD: 'asdf'
 
 
 # Параметры алгоритма
