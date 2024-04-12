@@ -1,0 +1,11 @@
+{
+  "rolling": 4,
+  "number_of_samples": 12,
+  "COUNT_TOP": 3, 
+  "SHORT_THRESHOLD": 96,
+  "LONG_THRESHOLD": 86,
+  "LEN_SHORT_ANOMALY": 72,
+  "LEN_LONG_ANOMALY": 288,
+  "COUNT_CONTINUE_SHORT": 5,
+  "COUNT_CONTINUE_LONG": 5
+}
